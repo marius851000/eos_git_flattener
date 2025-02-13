@@ -1,0 +1,1 @@
+python3 main.py ./.cache unpack ~/experiment_cot/c-of-time/out.nds extracted
